@@ -9,7 +9,7 @@ This project was created for a university assignment as a part of the web-develo
 ⚠ This project still has some missing pages. Hoping to add them soon!
 
 ## Screenshots
-[HomePage][screenshots/homepage.jpeg]
+[HomePage](screenshots/homepage.jpeg)
 
 ## Licence
 ** For educational purposes only **
